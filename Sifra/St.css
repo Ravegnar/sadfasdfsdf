@@ -1,0 +1,17 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(SG.ttf);
+}
+
+.prd {
+  font-family: myFirstFont;
+}
+
+@font-face {
+  font-family: myFirstFon;
+  src: url(SG.ttf);
+}
+
+.prdy {
+  font-family: myFirstFon;
+}
